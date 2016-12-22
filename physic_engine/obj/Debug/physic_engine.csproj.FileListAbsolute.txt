@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\physic_engine\physic_engine\bin\Debug\physic_engine.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\physic_engine\physic_engine\bin\Debug\physic_engine.exe
+c:\users\alex\documents\visual studio 2015\Projects\physic_engine\physic_engine\bin\Debug\physic_engine.pdb
+c:\users\alex\documents\visual studio 2015\Projects\physic_engine\physic_engine\obj\Debug\physic_engine.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\physic_engine\physic_engine\obj\Debug\physic_engine.exe
+c:\users\alex\documents\visual studio 2015\Projects\physic_engine\physic_engine\obj\Debug\physic_engine.pdb
